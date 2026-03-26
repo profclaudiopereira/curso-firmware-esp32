@@ -1,0 +1,12 @@
+ATK-SIM800C Module pin==================Arduino uno pin
+
+STXD ====================================== 9
+
+SRXD ======================================10
+
+GND ======================================= GND
+
+
+Power supply range: DC5~24V (2A)
+
+we have used 12V 5A adapter.

@@ -1,0 +1,7 @@
+1)go to the given link from description and Download the zip file
+
+2)complete the circuit diagram from circuit_diagram.txt
+
+3)upload the code ATKSIM800C.ino to your arduino uno
+
+4)open the serial monitor and follow the instruction
